@@ -1,0 +1,15 @@
+$buttonColor: red;
+$buttonHeight: 200px;
+$buttonWidth: 300px;
+$backgroundBody: blue;
+
+body{
+  background-color: $backgroundBody;
+}
+
+
+#clickerButton{
+  height: $buttonHeight;
+  width: $buttonWidth;
+  background-color: $buttonColor;
+}
